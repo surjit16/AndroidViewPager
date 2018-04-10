@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySwipeView</string>
+    <string name="term_conditions">By continuing, you agree to <a href="https://www.cleverfinger.com" > SSID\'s Terms &amp; Conditions </a> and <a href="http://www.cleverfinger.com.au/user-guide/"> Privacy Policy.</a></string>
+</resources>
